@@ -21,6 +21,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="MakefileLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -59,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725339568072</updated>
-      <workItem from="1725339577491" duration="345000" />
+      <workItem from="1725339577491" duration="1813000" />
     </task>
     <servers />
   </component>
