@@ -1,7 +1,7 @@
 all: ./a.out
 
 compRun:
-	g++ -std=c++11 bubbleSort.cpp -o r.out
+	g++ -std=c++11 insertionSort.cpp -o r.out
 
 compTest:
 	g++ -std=c++11 test.cpp functions.cpp -o a.out
